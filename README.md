@@ -1,3 +1,5 @@
-# PowerMixedModels_workshop
+# Workshop "Simulation-Based Power Analysis in (Generalized) Linear Mixed Models"
 
-Workshop "Simulation-Based Power Analysis in (Generalized) Linear Mixed Models" on the 24/03/2021, Open Science Initiative Frankfurt
+24/03/2021, Open Science Initiative Frankfurt, author: Leah Kumle
+
+The repository contains materials and resources related to this workshop.
