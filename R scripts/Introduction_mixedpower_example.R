@@ -1,6 +1,6 @@
 #                   SIMULATION-BASED POWER ANALYSIS                           #
 #                  Workshop 24.03.2021, OSF Frankfurt                         #
-#                         Author:  Leah Kumle                                 #
+#                         Author:  Levi Kumle                                 #
 # --------------------------------------------------------------------------- #
 
 # prepare ------------------------------------------------
